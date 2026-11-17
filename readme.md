@@ -19,9 +19,9 @@ SteelCitySafety
 - PLI Dataset: https://data.wprdc.org/dataset/pittsburgh-pli-violations-report
 
 ## Project Files
-- SteelCitySafetyIndex.ipynb – Crime dataset, based notebook focusing on the rankings of the neighborhoods solely on the crime. 
-- [insert parks notebook] – 
-- [insert pli notebook] - 
+- SteelCitySafetyIndex.ipynb – Crime dataset-based notebook focusing on the rankings of the neighborhoods solely on the crime ranking metric.
+- parks_ranking.ipynb – Parks dataset-based notebook focusing on the rankings of the neighborhoods solely on the park ranking metric.
+- PLI_Ranking.ipynb - PLI dataset-based notebook focusing on the rankings of neighborhoods solely on the PLI ranking metric.
 
 ## Methodology
 We use Python and data analysis techniques to examine
@@ -30,6 +30,4 @@ crime rates and park acreage across Pittsburgh neighborhoods.
 ## Tools and Technologies
 - Python
 - Jupyter Notebook
-- Pandas
-- Matplotlib
 - GitHub
