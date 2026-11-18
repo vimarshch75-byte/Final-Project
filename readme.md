@@ -22,7 +22,7 @@ SteelCitySafety
 - SteelCitySafetyIndex.ipynb – Crime dataset-based notebook focusing on the rankings of the neighborhoods solely on the crime ranking metric.
 - parks_ranking.ipynb – Parks dataset-based notebook focusing on the rankings of the neighborhoods solely on the park ranking metric.
 - PLI_Ranking.ipynb - PLI dataset-based notebook focusing on the rankings of neighborhoods solely on the PLI ranking metric.
-
+- Metric - All 3 datasets above are taken into account to find the best neighborhood in Pittsburgh in a 1-10 metric. 
 ## Methodology
 We use Python and data analysis techniques to examine
 crime rates and park acreage across Pittsburgh neighborhoods.
